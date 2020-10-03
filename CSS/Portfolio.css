@@ -4,7 +4,7 @@ body
 	
 }
 #myName{
-    font-size:500%;
+    font-size:8em;
     font-family: 'Neuton', serif;
     text-align:center;
 	padding-top: 7%;
@@ -55,7 +55,7 @@ p
 {
 	background-image:url("../Media/bp5.jpg");
 	background-repeat:no-repeat;
-	background-size:100;
+	background-size:100%;
 	
 }
 .social
